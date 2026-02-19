@@ -1,0 +1,5 @@
+build/
+*.o
+*.out
+*.class
+.DS_Store
