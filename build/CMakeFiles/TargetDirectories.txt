@@ -1,0 +1,3 @@
+/Users/markusabel/Documents/Projektid/exif-finder/build/CMakeFiles/exif-finder.dir
+/Users/markusabel/Documents/Projektid/exif-finder/build/CMakeFiles/edit_cache.dir
+/Users/markusabel/Documents/Projektid/exif-finder/build/CMakeFiles/rebuild_cache.dir
